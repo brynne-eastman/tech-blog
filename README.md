@@ -4,9 +4,10 @@
 The challenge this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Table of Contents
-* [User Story](#user story)
-* [Acceptance Criteria](#Acceptance Criteria)
+* [User Story](#userStory)
+* [Acceptance Criteria](#acceptanceCriteria)
 * [Usage](#usage)
+* [Links](#links)
 * [License](#lincense)
 * [Questions](#questions)
 
@@ -53,6 +54,9 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
+
+### Links
+Live Deployed Application:
 
 ### License
 MIT
