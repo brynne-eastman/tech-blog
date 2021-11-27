@@ -65,7 +65,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 
 ### Links
-Live Deployed Application: [Click Here] (https://sheltered-sea-09653.herokuapp.com/)
+Live Deployed Application: https://sheltered-sea-09653.herokuapp.com/
 
 ### License
 MIT
