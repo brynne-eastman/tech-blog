@@ -7,7 +7,6 @@ The challenge this week is to build a CMS-style blog site similar to a Wordpress
 * [User Story](#userStory)
 * [Acceptance Criteria](#acceptanceCriteria)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Links](#links)
 * [License](#lincense)
 * [Questions](#questions)
@@ -57,11 +56,16 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 
 ### Installation
+- Clone the repo to local machine
+- Run My SQL: mysql -u root -p
+- Enter password
+- Source the schema file: source db/schema.sql
+- Quit My SQL 
+- Start the server: node server.js
 
-### Usage
 
 ### Links
-Live Deployed Application:
+Live Deployed Application: [Click Here] (https://sheltered-sea-09653.herokuapp.com/)
 
 ### License
 MIT
